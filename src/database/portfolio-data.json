@@ -1,0 +1,271 @@
+[
+  {
+    "title": "Robogear BD",
+    "tagline": "Online Robotics Shop",
+    "image": "robogearbd.png",
+    "route": "robogear-bd",
+    "youtube": "w9Mfh5IX12Y",
+    "live": "https://robogearbd.com/",
+    "github": "https://github.com/armanahsanhabib/robogear-bd.git",
+    "category": ["e-commerce", "mern stack", "online store"],
+    "technologies": ["React", "Tailwind", "Node.js", "Express", "MongoDB"],
+    "features": [
+      "Fully responsive\r",
+      "Amazing design and color\r",
+      "Login and signup functionality\r",
+      "User authentication\r",
+      "Order management\r",
+      "Add to cart option"
+    ]
+  },
+  {
+    "title": "Robogearbd Admin Panel",
+    "tagline": "E-commerce Management System",
+    "image": "robogear admin.jpg",
+    "route": "robogear-bd-admin",
+    "youtube": "w9Mfh5IX12Y",
+    "live": "https://admin.robogearbd.com/",
+    "github": "https://github.com/armanahsanhabib/robogearbd-admin.git",
+    "category": [
+      "e-commerce",
+      "mern stack",
+      "online store",
+      "dashboard",
+      "admin panel"
+    ],
+    "technologies": [
+      "React",
+      "Tailwind",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Nodemailer",
+      "EJS"
+    ],
+    "features": [
+      "Fully responsive\r",
+      "Amazing design and color\r",
+      "Login and signup functionality\r",
+      "User authentication\r",
+      "Order management\r",
+      "Add to cart option"
+    ]
+  },
+  {
+    "title": "Quarter Real State",
+    "tagline": "Real State Agency Website",
+    "image": "quarter real state.png",
+    "route": "quarter-real-state",
+    "youtube": "w9Mfh5IX12Y",
+    "live": "",
+    "github": "",
+    "category": ["agency", "real-state"],
+    "technologies": ["React", "Tailwind", "JSX", "JavaScript"],
+    "features": [
+      "Fully responsive\r",
+      "Amazing design and color\r",
+      "Login and signup functionality\r",
+      "User authentication\r",
+      "Order management\r",
+      "Add to cart option"
+    ]
+  },
+  {
+    "title": "Travel Point Agency",
+    "tagline": "Travel Agency Website",
+    "image": "travel point.png",
+    "route": "travel-point-agency",
+    "youtube": "w9Mfh5IX12Y",
+    "live": "",
+    "github": "",
+    "category": ["agency", "travel", "tours"],
+    "technologies": ["React", "Tailwind", "JSX", "JavaScript"],
+    "features": [
+      "Fully responsive\r",
+      "Amazing design and color\r",
+      "Login and signup functionality\r",
+      "User authentication\r",
+      "Order management\r",
+      "Add to cart option"
+    ]
+  },
+  {
+    "title": "Nike Footwear",
+    "tagline": "E-commerce Website",
+    "image": "nike footwear.png",
+    "route": "nike-footwear",
+    "youtube": "w9Mfh5IX12Y",
+    "live": "",
+    "github": "",
+    "category": ["e-commerce", "nike", "footwear", "online store"],
+    "technologies": ["React", "Tailwind", "JSX", "JavaScript"],
+    "features": [
+      "Fully responsive\r",
+      "Amazing design and color\r",
+      "Login and signup functionality\r",
+      "User authentication\r",
+      "Order management\r",
+      "Add to cart option"
+    ]
+  },
+  {
+    "title": "Noty Guide Service",
+    "tagline": "Guide Service Agency",
+    "image": "noty service.png",
+    "route": "noty-guide-service",
+    "youtube": "w9Mfh5IX12Y",
+    "live": "",
+    "github": "",
+    "category": ["agency", "guide", "service"],
+    "technologies": ["React", "Tailwind", "JSX", "JavaScript"],
+    "features": [
+      "Fully responsive\r",
+      "Amazing design and color\r",
+      "Login and signup functionality\r",
+      "User authentication\r",
+      "Order management\r",
+      "Add to cart option"
+    ]
+  },
+  {
+    "title": "AhsanDevHub Admin Panel",
+    "tagline": "Portoflio Management Website",
+    "image": "ahsandevhub admin.jpg",
+    "route": "ahsandevhub-admin",
+    "youtube": "w9Mfh5IX12Y",
+    "live": "",
+    "github": "",
+    "category": ["portfolio", "admin", "portolfio management"],
+    "technologies": [
+      "React",
+      "Tailwind",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Nodemailer",
+      "EJS"
+    ],
+    "features": [
+      "Fully responsive\r",
+      "Amazing design and color\r",
+      "Login and signup functionality\r",
+      "User authentication\r",
+      "Order management\r",
+      "Add to cart option"
+    ]
+  },
+  {
+    "title": "Student Portal Dashboard",
+    "tagline": "Student Portal Management",
+    "image": "student portal project.jpg",
+    "route": "student-portal",
+    "youtube": "w9Mfh5IX12Y",
+    "live": "",
+    "github": "",
+    "category": ["student portal", "management", "student management"],
+    "technologies": ["React", "Tailwind", "Node.js"],
+    "features": [
+      "Fully responsive\r",
+      "Amazing design and color\r",
+      "Login and signup functionality\r",
+      "User authentication\r",
+      "Order management\r",
+      "Add to cart option"
+    ]
+  },
+  {
+    "title": "Rose Portfolio",
+    "tagline": "Portfolio Website",
+    "image": "rose-portfolio.png",
+    "route": "portfolio-rose",
+    "youtube": "w9Mfh5IX12Y",
+    "live": "",
+    "github": "",
+    "category": ["portfolio", "persoanl website", "personal resume website"],
+    "technologies": ["HTML", "CSS", "React", "Responsive"],
+    "features": [
+      "Fully responsive\r",
+      "Amazing design and color\r",
+      "Login and signup functionality\r",
+      "User authentication\r",
+      "Order management\r",
+      "Add to cart option"
+    ]
+  },
+  {
+    "title": "Simple Portfolio",
+    "tagline": "Portfolio Website",
+    "image": "simple portfolio.png",
+    "route": "simple-portfolio",
+    "youtube": "w9Mfh5IX12Y",
+    "live": "",
+    "github": "",
+    "category": ["portfolio", "persoanl website", "personal resume website"],
+    "technologies": ["React", "Tailwind", "Responsive"],
+    "features": [
+      "Fully responsive\r",
+      "Amazing design and color\r",
+      "Login and signup functionality\r",
+      "User authentication\r",
+      "Order management\r",
+      "Add to cart option"
+    ]
+  },
+  {
+    "title": "Chat-GPT Clone",
+    "tagline": "OpenAI ChatGPT Clone",
+    "image": "chatgpt-clone.jpg",
+    "route": "chatgpt-clone",
+    "youtube": "w9Mfh5IX12Y",
+    "live": "",
+    "github": "",
+    "category": ["chatgpt", "openai", "chatgpt clone"],
+    "technologies": ["React", "Tailwind", "Responsive"],
+    "features": [
+      "Fully responsive\r",
+      "Amazing design and color\r",
+      "Login and signup functionality\r",
+      "User authentication\r",
+      "Order management\r",
+      "Add to cart option"
+    ]
+  },
+  {
+    "title": "mWallet MFS",
+    "tagline": "MFS App Demo",
+    "image": "mfs mwallet.png",
+    "route": "mwallet-mfs",
+    "youtube": "w9Mfh5IX12Y",
+    "live": "",
+    "github": "",
+    "category": ["mfs", "mwallet", "mfs app", "android app"],
+    "technologies": ["React", "Tailwind", "Responsive"],
+    "features": [
+      "Fully responsive\r",
+      "Amazing design and color\r",
+      "Login and signup functionality\r",
+      "User authentication\r",
+      "Order management\r",
+      "Add to cart option"
+    ]
+  },
+  {
+    "title": "Tic-Tac-Toe",
+    "tagline": "Web based game",
+    "image": "tic tac toe.png",
+    "route": "tic-tac-toe-game",
+    "youtube": "w9Mfh5IX12Y",
+    "live": "",
+    "github": "",
+    "category": ["web game", "tic-tac-toe", "react game"],
+    "technologies": ["React", "Tailwind", "Responsive"],
+    "features": [
+      "Fully responsive\r",
+      "Amazing design and color\r",
+      "Login and signup functionality\r",
+      "User authentication\r",
+      "Order management\r",
+      "Add to cart option"
+    ]
+  }
+]
